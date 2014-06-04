@@ -5,6 +5,8 @@ eyes.
 
 <img src ="http://www.czettner.com/sites/default/files/leftgallery/glowfish.png">
 
+Now with Markdown support for [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+
 ## Installation
 
     cd ~/.config/sublime-text-3/Packages
