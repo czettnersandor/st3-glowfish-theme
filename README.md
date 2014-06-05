@@ -1,4 +1,4 @@
-# Sandor's Glowfish Theme
+# Sandor's Glowfish Scheme
 
 Sublime Text 2/3 Glowfish Theme with vintage hacker look but relaxing for the
 eyes.
