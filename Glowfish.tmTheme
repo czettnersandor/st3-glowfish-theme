@@ -51,8 +51,9 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<!-- Test it before EXAMPLE -->
 				<key>foreground</key>
-				<string>#465843</string>
+				<string>#4688B3</string>
 			</dict>
 		</dict>
 		<dict>
